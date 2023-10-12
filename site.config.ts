@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '8ea9c86177794a82ba19c098a6d9b2c3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang's Blog World',
+  name: 'Chaodi Tang Blog World',
   domain: 'chaodit.tech',
   author: 'Chaodi Tang',
 
