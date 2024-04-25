@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.tech',
+  domain: 'chaodit.com',
   author: 'Chaodi Tang',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'chaodit',
+  github: 'chaodit',
+  linkedin: 'Chao Di Tang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
